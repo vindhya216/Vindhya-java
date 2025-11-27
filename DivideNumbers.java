@@ -25,4 +25,10 @@ public class DivideNumbers {
             System.out.println("Program execution completed.");
         }
     }
+
 }
+
+OUTPUT
+    Enter the numerator: 5
+Enter the denominator: 1
+Result: 5
