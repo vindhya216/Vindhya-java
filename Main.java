@@ -37,4 +37,9 @@ public class Main {
        
         laptop.showDetails();
     }
+
 }
+
+OUTPUT
+    Product ID: 101
+Warranty: 24 months
